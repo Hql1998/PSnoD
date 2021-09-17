@@ -1,0 +1,3 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+0,seq_sim,method,mean_roc_auc,std_auc,mean_prc_average_precision_score,std_average_precision_score,precision_0_mean,precision_1_mean,recall_0_mean,recall_1_mean,f1_score_0_mean,f1_score_1_mean,accuracy_mean,macro_precision_mean,macro_recall_mean,macro_f1_score_mean,weighted_precision_mean,weighted_recall_mean,weighted_f1_score_mean
+1,snoRNA_4mer_similarity.csv,BNNR,0.9020970575318401,0.01832924024964142,0.5501447375818839,0.06683965482960394,0.986555918734313,0.3123186988196449,0.8394160583941606,0.8630434782608696,0.9069224541289349,0.4579468366645396,0.8412457912457911,0.6494373087769789,0.8512297683275151,0.6824346453967373,0.9343422619732445,0.8412457912457911,0.8721532985677192
